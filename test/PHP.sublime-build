@@ -1,0 +1,5 @@
+{
+	"cmd":["D:/Visual-NMP-x64/Bin/PHP/php-5.3.29-nts-Win32-VC9-x86/php.exe","$file"],
+	"file_regex":"php$",
+	"selector":"source.php"
+}
